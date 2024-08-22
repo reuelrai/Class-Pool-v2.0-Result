@@ -19,7 +19,7 @@ const data = {
     "Sudip Bhandari": ["BHADARI BHANJA, WHAT'S UP!?"],
     "Umanga Magar": ["EXCUSE MEEE......HAVE YOU SEEN MY BOYFRIEND?"],
     "Aayusha Shresthacharya Baniya": ["SPECS + LONG NAME = FUTURE PRIME MINISTER"],
-    "Asmita Silwal": ["1ST FIRST BENCHER WHO FAILED!?"],
+    "Asmita Silwal": ["class kai sojo"],
     "Bhumi Pradhan": ["HERE COMES THE CR! ROLI'S FAV! BOOOOM BOOOOM", "If 'Cool Girl' was a person that would be her"],
     "Aayush Giri": ["HEEEEEEYYYYYYYYYYYYYYYY!!!!"]
 };
