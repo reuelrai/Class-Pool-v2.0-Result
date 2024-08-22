@@ -4,16 +4,16 @@ const data = {
     "Muskan Rajbanshi": ["Helpful", "NIRAJ KO FAV STUDENT"],
     "Avishek Sigdel": ["LUND", "I want him to talk with me"],
     "Bigyan Sapkota": ["BALLER"],
-    "Bipin Dawadi": ["Grow Up!!", "energetic fellow", "Yo manxe Ko harek sentence paxi pabitra sabda niklikxa"],
+    "Bipin Dawadi": ["Grow Up!!", "energetic fellow", "Yo manxe Ko harek sentence paxi pabitra sabda niklikxa","Bipin dawadi"],
     "Jenisha Shrestha": ["SILENT KILLER", "Why always Rizan lai Mafia banau ne?"],
     "Shristi Budha Magar": ["CUTENESS OVERLOAD", "SHRISTI WIFE MATERIAL!? MAGAR"],
     "Rakshya Shrestha": ["Next Archana Puran Singh"],
-    "Rijan Riajl": ["KASSAM K SAATHI", "Same goes to you :( why?"],
+    "Rijan Riajl": ["KASSAM K SAATHI", "Same goes to you :( why?", "Height"],
     "Ritesh Chaudary": ["THARU SATHI JINDABAD"],
     "Reuel Rai": ["TOURIST", "Ruleeeeeee"],
     "Sakshyam Maharjan": ["BICEPS FLEX HANAM NA, KHAI TA"],
     "Srestaa Shrestha": ["You know", "Those eyes", "TOPPER IN THE HOUSE!", "DAMNN SHE'S GORGEOUS"],
-    "Samyog Sapkota": ["INTELLIGENT MF"],
+    "Samyog Sapkota": ["INTELLIGENT MF","Gede"],
     "Sandeep Lamichhane": ["ALL ROUNDER"],
     "Smaran Bajracharya": ["ETTIKO HUNU PARYO"],
     "Sudip Bhandari": ["BHADARI BHANJA, WHAT'S UP!?"],
@@ -21,7 +21,7 @@ const data = {
     "Aayusha Shresthacharya Baniya": ["SPECS + LONG NAME = FUTURE PRIME MINISTER"],
     "Asmita Silwal": ["class kai sojo"],
     "Bhumi Pradhan": ["HERE COMES THE CR! ROLI'S FAV! BOOOOM BOOOOM", "If 'Cool Girl' was a person that would be her"],
-    "Aayush Giri": ["HEEEEEEYYYYYYYYYYYYYYYY!!!!"]
+    "Aayush Giri": ["HEEEEEEYYYYYYYYYYYYYYYY!!!!","LODU"]
 };
 
 // Updated vote counts based on the provided list
@@ -31,16 +31,16 @@ const votes = {
     "Muskan Rajbanshi": 2,
     "Avishek Sigdel": 2,
     "Bigyan Sapkota": 1,
-    "Bipin Dawadi": 3,
+    "Bipin Dawadi": 4,
     "Jenisha Shrestha": 2,
     "Shristi Budha Magar": 2,
     "Rakshya Shrestha": 1,
-    "Rijan Riajl": 2,
+    "Rijan Riajl": 3,
     "Ritesh Chaudary": 1,
     "Reuel Rai": 2,
     "Sakshyam Maharjan": 1,
     "Srestaa Shrestha": 4,
-    "Samyog Sapkota": 1,
+    "Samyog Sapkota": 2,
     "Sandeep Lamichhane": 1,
     "Smaran Bajracharya": 1,
     "Sudip Bhandari": 1,
@@ -48,7 +48,7 @@ const votes = {
     "Aayusha Shresthacharya Baniya": 1,
     "Asmita Silwal": 1,
     "Bhumi Pradhan": 2,
-    "Aayush Giri": 1
+    "Aayush Giri": 2
 };
 
 function createPoll() {
